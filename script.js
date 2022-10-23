@@ -51,3 +51,10 @@ So unlike var, when you use let, a variable with the same name can only be decla
 Update the code so it only uses the let keyword. */
 let catName = "Oliver";
 let catSound = "Meow!";
+
+/* Declare a Read-Only Variable with the const Keyword
+Change the code so that all variables are declared using let or const */
+const FCC = "freeCodeCamp"; 
+let fact = "is cool!"; 
+fact = "is awesome!";
+console.log(FCC, fact); 
