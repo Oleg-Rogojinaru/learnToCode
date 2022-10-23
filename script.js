@@ -58,3 +58,6 @@ const FCC = "freeCodeCamp";
 let fact = "is cool!"; 
 fact = "is awesome!";
 console.log(FCC, fact); 
+
+// Add Two Numbers with JavaScript. Change the 0 so that sum will equal 20.
+
