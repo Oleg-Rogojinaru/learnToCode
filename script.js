@@ -66,3 +66,6 @@ const sum = 10 + 10;
 // Change the 0 so the difference is 12.
 const difference = 45 - 33;
 
+// Multiply Two Numbers with JavaScript
+// Change the 0 so that product will equal 80.
+
