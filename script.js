@@ -78,3 +78,8 @@ const quotient = 66 / 33;
 // Change the code to use the ++ operator on myVar
 let myVar = 87;
 myVar++;
+
+// Decrement a Number with JavaScript
+// Change the code to use the -- operator on myVar
+let myVar = 11;
+myVar--;
