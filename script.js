@@ -151,3 +151,22 @@ const myStr = "I am a \"double quoted\" string inside \"double quotes\".";
 and no escape characters.
 const myStr = "<a href=\"http://www.example.com\" target=\"_blank\">Link</a>"; */
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+// Escape Sequences in Strings
+/* Code	Output
+    \'	single quote
+    \"	double quote
+    \\	backslash
+    \n	newline
+    \t	tab
+    \r	carriage return
+    \b	word boundary
+    \f	form feed
+*/
+/* Assign the following three lines of text into the single variable myStr using escape 
+sequences.
+FirstLine
+    \SecondLine
+ThirdLine
+*/
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
