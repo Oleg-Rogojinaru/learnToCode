@@ -179,3 +179,7 @@ const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
 // Concatenating Strings with the Plus Equals Operator
 let myStr = "This is the first sentence. ";
 myStr += "This is the second sentence.";
+
+// Constructing Strings with Variables
+const myName = "Oleg";
+const myStr = " My name is " + myName + " and I am well!";
