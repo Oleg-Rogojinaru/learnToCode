@@ -51,15 +51,36 @@
 
 		<!--Create a Form Element-->
 		<form action="https://www.freecatphotoapp.com/submit-cat-photo">
+			
 			<!--Use HTML5 to Require a Field-->
 			<input type="text" placeholder="cat photo URL" required>
+			
 			<!--Add a Submit Button to a Form-->
 			<button type="submit">Submit</button>
+			
 			<!--Create a Set of Radio Buttons-->
-			<input id="indoor" type="radio" name="indoor-outdoor">
-    		<label for="indoor">Indoor</label>
-    		<input id="outdoor" type="radio" name="indoor-outdoor">
-    		<label for="outdoor">Indoor</label>
+			<label for="indoor">
+				<input id="indoor" type="radio" name="indoor-outdoor">
+				Indoor
+			</label>
+			<label for="outdoor">
+				<input id="outdoor" type="radio" name="indoor-outdoor">
+				Outdoor
+			</label>
+			
+			<!--Create a Set of Checkboxes-->
+			<label for="perfectionist">
+				<input id="perfectionist" type="checkbox" name="personality">
+				Perfectionist
+			</label>
+			<label for="helper">
+				<input id="helper" type="checkbox" name="personality">
+				Helper
+			</label>
+			<label for="achiever">
+				<input id="achiever" type="checkbox" name="personality">
+				Achiever
+			</label>
 		</form>
 
 
