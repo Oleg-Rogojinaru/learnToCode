@@ -175,3 +175,7 @@ const myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
 /* Build myStr from the strings This is the start. and This is the end. using the + operator. 
    Be sure to include a space between the two strings. */
 	const myStr = "This is the start." + " This is the end.";
+
+// Concatenating Strings with the Plus Equals Operator
+let myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";
