@@ -183,3 +183,8 @@ myStr += "This is the second sentence.";
 // Constructing Strings with Variables
 const myName = "Oleg";
 const myStr = " My name is " + myName + " and I am well!";
+
+// Appending Variables to Strings
+const someAdjective = "awesome!";
+let myStr = "Learning to code is ";
+myStr += someAdjective;
