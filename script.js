@@ -224,3 +224,7 @@ const myVerb = "ran";
 const myAdverb = "quickly";
 
 const wordBlanks = "My " + myAdjective + " nice " + myNoun + " can " + myVerb + " so " + myAdverb + "."; 
+
+// Store Multiple Values in one Variable using JavaScript Arrays
+// Modify the new array myArray so that it contains both a string and a number (in that order).
+const myArray = ["stage" , 1];
