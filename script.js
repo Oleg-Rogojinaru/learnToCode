@@ -231,3 +231,9 @@ const myArray = ["stage" , 1];
 
 //Nest one Array within Another Array
 // This is also called a multi-dimensional array.
+const myArray = [["Bulls", 23], ["White Sox", 45]];
+
+// Access Array Data with Indexes
+// Create a variable called myData and set it to equal the first value of myArray using bracket notation.
+const myArray = [50, 60, 70];
+const myData = myArray[0];
