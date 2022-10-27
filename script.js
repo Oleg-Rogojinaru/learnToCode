@@ -228,3 +228,6 @@ const wordBlanks = "My " + myAdjective + " nice " + myNoun + " can " + myVerb + 
 // Store Multiple Values in one Variable using JavaScript Arrays
 // Modify the new array myArray so that it contains both a string and a number (in that order).
 const myArray = ["stage" , 1];
+
+//Nest one Array within Another Array
+// This is also called a multi-dimensional array.
