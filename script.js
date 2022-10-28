@@ -268,3 +268,9 @@ const removedFromMyArray = myArray.pop();
 // Use the .shift() function to remove the first item from myArray and assign the "shifted off" value to a new variable, removedFromMyArray.
 const myArray = [["John", 23], ["dog", 3]];
 const removedFromMyArray = myArray.shift();
+
+// Manipulate Arrays With unshift()
+// Add ["Paul", 35] to the beginning of the myArray variable using unshift().
+const myArray = [["John", 23], ["dog", 3]];
+myArray.shift();
+myArray.unshift(["Paul", 35]);
