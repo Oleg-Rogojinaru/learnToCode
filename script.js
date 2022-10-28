@@ -274,3 +274,14 @@ const removedFromMyArray = myArray.shift();
 const myArray = [["John", 23], ["dog", 3]];
 myArray.shift();
 myArray.unshift(["Paul", 35]);
+
+// Shopping List
+// Create a shopping list in the variable myList. The list should be a multi-dimensional array containing several sub-arrays.
+// There should be at least 5 sub-arrays in the list.
+const myList = [
+	["Water bottle", 6],
+	["Avocado", 2],
+	["Banana", 5],
+	["Cheese", 1],
+	["bread", 3]
+ ];
