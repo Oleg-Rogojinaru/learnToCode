@@ -252,14 +252,19 @@ const myArray = [
 	[[10, 11, 12], 13, 14],
  ];
  
- const myData = myArray[2][1];
+const myData = myArray[2][1];
 
- // Manipulate Arrays With push()
- // Push ["dog", 3] onto the end of the myArray variable.
- const myArray = [["John", 23], ["cat", 2]];
- myArray.push(["dog", 3]);
+// Manipulate Arrays With push()
+// Push ["dog", 3] onto the end of the myArray variable.
+const myArray = [["John", 23], ["cat", 2]];
+myArray.push(["dog", 3]);
 
- // Manipulate Arrays With pop()
- // Use the .pop() function to remove the last item from myArray and assign the popped off value to a new variable, removedFromMyArray.
- const myArray = [["John", 23], ["cat", 2]];
- const removedFromMyArray = myArray.pop();
+// Manipulate Arrays With pop()
+// Use the .pop() function to remove the last item from myArray and assign the popped off value to a new variable, removedFromMyArray.
+const myArray = [["John", 23], ["cat", 2]];
+const removedFromMyArray = myArray.pop();
+
+// Manipulate Arrays With shift()
+// Use the .shift() function to remove the first item from myArray and assign the "shifted off" value to a new variable, removedFromMyArray.
+const myArray = [["John", 23], ["dog", 3]];
+const removedFromMyArray = myArray.shift();
