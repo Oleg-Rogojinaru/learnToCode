@@ -303,3 +303,9 @@ function functionWithArgs(param1, param2) {
  }
  
  functionWithArgs(4,5);
+
+// Return a Value from a Function with Return
+// Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value.
+function timesFive(num) {
+	return num * 5;
+ }
