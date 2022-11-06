@@ -15,3 +15,4 @@ console.log(2011);
 console.log('Woohoo! I love to code! #codecademy');
 // 4. On line 4, print the number 20.49 to the console.
 console.log(20.49);
+
