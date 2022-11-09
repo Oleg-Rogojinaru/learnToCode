@@ -57,3 +57,12 @@ console.log('Hello' + 'World');
       Create a second console.log() statement in which you concatenate the strings 'Hello' and 'World', but this time make sure to also include a space (' ') between the two words.
 */
 console.log('Hello ' + 'World');
+
+
+
+
+// Properties
+/* 1. Use the .length property to log the number of characters in the following string to the console:
+		'Teaching the world how to code'
+*/
+console.log('Teaching the world how to code'.length);
