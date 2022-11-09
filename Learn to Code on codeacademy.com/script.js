@@ -2,35 +2,58 @@
 // Console
 // 1. Use the console.log code in the editor to log your age to the console.
 console.log(38);
+
 // 2. On the next line, write another console.log to print out a different number representing the number of weeks you’ve been programming.
 console.log(2);
+
 
 
 
 // Data Types
 // 1. On line 1, log the string 'JavaScript' to the console.
 console.log('JavaScript');
+
 // 2. On line 2, log the number 2011 to the console.
 console.log(2011);
+
 // 3. On line 3, print 'Woohoo! I love to code! #codecademy' to the console.
 console.log('Woohoo! I love to code! #codecademy');
+
 // 4. On line 4, print the number 20.49 to the console.
 console.log(20.49);
+
 
 
 
 // Arithmetic Operators
 // 1. Inside of a console.log(), add 3.5 to your age. This is the age you’ll be when we start sending people to live on Mars.
 console.log(38 + 3.5);
+
 /* 2. On a new line write another console.log(). 
 		Inside the parentheses, take the current year and subtract 1969.
 		The answer is how many years it’s been since the 1969 moon landing.
 */
 console.log(2022 - 1969);
+
 // 3. Create another console.log(). Inside the parentheses divide 65 by 240.
 console.log(65 / 240);
+
 /* 4. Create one last console.log(). Inside the parentheses, multiply 0.2708 by 100.
       That’s the percent of the sun that is made up of helium. 
       Assuming we could stand on the sun, we’d all sound like chipmunks!
 */
 console.log(0.2708 * 100);
+
+
+
+
+// String Concatenation
+/* 1. Inside a console.log() statement, concatenate the two strings 'Hello' and 'World'.
+		Note: You should concatenate the two strings exactly (without introducing any additional characters).
+*/
+console.log('Hello' + 'World');
+
+/* 2. We left off the space last time. 
+      Create a second console.log() statement in which you concatenate the strings 'Hello' and 'World', but this time make sure to also include a space (' ') between the two words.
+*/
+console.log('Hello ' + 'World');
