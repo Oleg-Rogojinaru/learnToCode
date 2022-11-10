@@ -66,3 +66,16 @@ console.log('Hello ' + 'World');
 		'Teaching the world how to code'
 */
 console.log('Teaching the world how to code'.length);
+
+
+
+
+// Methods
+// 1. Use the .toUpperCase() method to log the string 'Codecademy' to the console in all capital letters.
+console.log('Codecademy'.toUpperCase());
+/*
+	2. In the second console.log() statement in app.js, we have a string ' Remove whitespace ' which has spaces before and after the words 'Remove whitespace'.
+		The one method that seems ideal for us is .trim().
+		Use the method to remove the whitespace at the beginning and end of the string in the second console.log() statement.
+*/
+console.log('    Remove whitespace   '.trim());
